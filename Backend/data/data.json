@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Exploring the Future of AI",
+    "content": "Artificial Intelligence is changing how we interact with technology every day.",
+    "category": "Technology",
+    "author": "Author 1",
+    "createdAt": "2025-10-15T10:00:00.000Z",
+    "updatedAt": "2025-10-15T10:00:00.000Z",
+    "image": "https://picsum.photos/seed/1/300/200"
+  },
+  {
+    "title": "Top 10 Healthy Lifestyle Tips",
+    "content": "Staying healthy is all about consistency, balance, and good habits.",
+    "category": "Lifestyle",
+    "author": "Author 2",
+    "createdAt": "2025-10-15T10:05:00.000Z",
+    "updatedAt": "2025-10-15T10:05:00.000Z",
+    "image": "https://picsum.photos/seed/2/300/200"
+  },
+  {
+    "title": "How to Build a Simple Website",
+    "content": "Learn the basics of HTML, CSS, and JavaScript to create your first website.",
+    "category": "Technology",
+    "author": "Author 3",
+    "createdAt": "2025-10-15T10:10:00.000Z",
+    "updatedAt": "2025-10-15T10:10:00.000Z",
+    "image": "https://picsum.photos/seed/3/300/200"
+  },
+  {
+    "title": "Morning Routines for Success",
+    "content": "A good morning routine can boost productivity and improve your mindset.",
+    "category": "Lifestyle",
+    "author": "Author 4",
+    "createdAt": "2025-10-15T10:15:00.000Z",
+    "updatedAt": "2025-10-15T10:15:00.000Z",
+    "image": "https://picsum.photos/seed/4/300/200"
+  },
+  {
+    "title": "Mastering JavaScript in 30 Days",
+    "content": "With consistent practice, anyone can become proficient in JavaScript quickly.",
+    "category": "Technology",
+    "author": "Author 5",
+    "createdAt": "2025-10-15T10:20:00.000Z",
+    "updatedAt": "2025-10-15T10:20:00.000Z",
+    "image": "https://picsum.photos/seed/5/300/200"
+  },
+  {
+    "title": "Simple Recipes for Busy People",
+    "content": "Quick and healthy meals you can make in under 20 minutes.",
+    "category": "Lifestyle",
+    "author": "Author 6",
+    "createdAt": "2025-10-15T10:25:00.000Z",
+    "updatedAt": "2025-10-15T10:25:00.000Z",
+    "image": "https://picsum.photos/seed/6/300/200"
+  },
+  {
+    "title": "The Rise of Cloud Computing",
+    "content": "Cloud technology has transformed how companies store and process data.",
+    "category": "Technology",
+    "author": "Author 7",
+    "createdAt": "2025-10-15T10:30:00.000Z",
+    "updatedAt": "2025-10-15T10:30:00.000Z",
+    "image": "https://picsum.photos/seed/7/300/200"
+  },
+  {
+    "title": "Mindfulness for Everyday Life",
+    "content": "Mindfulness helps reduce stress and increases happiness through awareness.",
+    "category": "Lifestyle",
+    "author": "Author 8",
+    "createdAt": "2025-10-15T10:35:00.000Z",
+    "updatedAt": "2025-10-15T10:35:00.000Z",
+    "image": "https://picsum.photos/seed/8/300/200"
+  },
+  {
+    "title": "Top Programming Languages in 2025",
+    "content": "Discover which programming languages are most in-demand in the tech world.",
+    "category": "Technology",
+    "author": "Author 9",
+    "createdAt": "2025-10-15T10:40:00.000Z",
+    "updatedAt": "2025-10-15T10:40:00.000Z",
+    "image": "https://picsum.photos/seed/9/300/200"
+  },
+  {
+    "title": "The Art of Minimal Living",
+    "content": "Minimalism is about living intentionally with less and finding more peace.",
+    "category": "Lifestyle",
+    "author": "Author 10",
+    "createdAt": "2025-10-15T10:45:00.000Z",
+    "updatedAt": "2025-10-15T10:45:00.000Z",
+    "image": "https://picsum.photos/seed/10/300/200"
+  },
+  {
+    "title": "Why Cybersecurity Matters",
+    "content": "With increasing data breaches, protecting your digital life is essential.",
+    "category": "Technology",
+    "author": "Author 11",
+    "createdAt": "2025-10-15T10:50:00.000Z",
+    "updatedAt": "2025-10-15T10:50:00.000Z",
+    "image": "https://picsum.photos/seed/11/300/200"
+  },
+  {
+    "title": "How to Stay Motivated",
+    "content": "Consistency and self-discipline are key to staying motivated long-term.",
+    "category": "Lifestyle",
+    "author": "Author 12",
+    "createdAt": "2025-10-15T10:55:00.000Z",
+    "updatedAt": "2025-10-15T10:55:00.000Z",
+    "image": "https://picsum.photos/seed/12/300/200"
+  },
+  {
+    "title": "Building Mobile Apps with React Native",
+    "content": "React Native allows you to build cross-platform apps using JavaScript.",
+    "category": "Technology",
+    "author": "Author 13",
+    "createdAt": "2025-10-15T11:00:00.000Z",
+    "updatedAt": "2025-10-15T11:00:00.000Z",
+    "image": "https://picsum.photos/seed/13/300/200"
+  },
+  {
+    "title": "Creating Balance Between Work and Life",
+    "content": "Work-life balance is crucial for long-term happiness and productivity.",
+    "category": "Lifestyle",
+    "author": "Author 14",
+    "createdAt": "2025-10-15T11:05:00.000Z",
+    "updatedAt": "2025-10-15T11:05:00.000Z",
+    "image": "https://picsum.photos/seed/14/300/200"
+  },
+  {
+    "title": "The Future of Web Development",
+    "content": "Web technologies are evolving fast with AI, Web3, and modern frameworks.",
+    "category": "Technology",
+    "author": "Author 15",
+    "createdAt": "2025-10-15T11:10:00.000Z",
+    "updatedAt": "2025-10-15T11:10:00.000Z",
+    "image": "https://picsum.photos/seed/15/300/200"
+  },
+  {
+    "title": "The Power of Positive Thinking",
+    "content": "A positive mindset can completely transform your approach to challenges.",
+    "category": "Lifestyle",
+    "author": "Author 16",
+    "createdAt": "2025-10-15T11:15:00.000Z",
+    "updatedAt": "2025-10-15T11:15:00.000Z",
+    "image": "https://picsum.photos/seed/16/300/200"
+  },
+  {
+    "title": "How Blockchain is Changing Finance",
+    "content": "Blockchain technology ensures transparency and decentralization in finance.",
+    "category": "Technology",
+    "author": "Author 17",
+    "createdAt": "2025-10-15T11:20:00.000Z",
+    "updatedAt": "2025-10-15T11:20:00.000Z",
+    "image": "https://picsum.photos/seed/17/300/200"
+  },
+  {
+    "title": "The Importance of Daily Exercise",
+    "content": "Even 30 minutes of physical activity can boost your energy and mood.",
+    "category": "Lifestyle",
+    "author": "Author 18",
+    "createdAt": "2025-10-15T11:25:00.000Z",
+    "updatedAt": "2025-10-15T11:25:00.000Z",
+    "image": "https://picsum.photos/seed/18/300/200"
+  },
+  {
+    "title": "Understanding Machine Learning",
+    "content": "Machine Learning enables computers to learn from data and make predictions.",
+    "category": "Technology",
+    "author": "Author 19",
+    "createdAt": "2025-10-15T11:30:00.000Z",
+    "updatedAt": "2025-10-15T11:30:00.000Z",
+    "image": "https://picsum.photos/seed/19/300/200"
+  },
+  {
+    "title": "Simple Ways to Improve Sleep Quality",
+    "content": "A calm environment and consistent schedule improve your sleep patterns.",
+    "category": "Lifestyle",
+    "author": "Author 20",
+    "createdAt": "2025-10-15T11:35:00.000Z",
+    "updatedAt": "2025-10-15T11:35:00.000Z",
+    "image": "https://picsum.photos/seed/20/300/200"
+  }
+]

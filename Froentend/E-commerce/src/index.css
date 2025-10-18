@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(166, 219, 219);
+      margin: 0;
+  padding: 0;
+}
+nav{
+      margin: 0;
+  padding: 0;
+}
+.navs {
+  list-style: none;
+  /* background-color: black; */
+  color: rgb(187, 43, 43);
+  padding: 10px 20px;
+  border-radius: 10px;
+  letter-spacing: 2px; /* ✅ fixed typo: was 20pxx */
+  text-align: end;
+}
+
+.mu{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px ;
+    margin: 10px ;
+
+    width: 600px;
+    height: 30vh;
+}
+    
+
+.imgs{
+    margin-left: 190px;
+    line-height: 40px;
+    /* background-color: aliceblue; */
+
+    
+}
+.ab{
+    height: 20%;
+      border: none;
+}
+.img{
+    background-position: center;
+    background-size: cover;
+    border-radius: 30%;
+    box-sizing: content-box
+}
